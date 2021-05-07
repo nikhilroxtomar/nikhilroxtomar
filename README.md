@@ -4,4 +4,4 @@ I am Nikhil Kumar Tomar and I am a Freelancer, AI Researcher, a YouTuber and Blo
 
 - 🔭 I’m currently working on Polyp Segmentation
 - 🌱 I’m currently learning Object Detection
-- 📫 How to reach me: [Twiter](https://twitter.com/Nikhilroxtomar)
+- 📫 How to reach me: [Twitter](https://twitter.com/Nikhilroxtomar)
