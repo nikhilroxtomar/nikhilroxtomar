@@ -1,7 +1,6 @@
 ### Hi there 👋 I am Nikhil Kumar Tomar
 
-- 🔭 I’m currently working on building novel segmentation architecture.
-- 🌱 I’m currently building a course: "Semantic Segmentation using Deep Learning in TensorFlow 2.0"
+- 🔭 I’m currently busy in exploring the vast universe of the Artificial Intelligence
 - 📫 How to reach me: [Twitter](https://twitter.com/Nikhilroxtomar)
 
 <p align="center">
